@@ -1,14 +1,12 @@
 body{
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     margin: 2%;
-    background-color: yellow;
+    background-color: blue;
 }
 
 
 
-#after_submit {
-    visibility: hidden;
-}
+
 
 h1{
     font-size: 40px;
@@ -17,3 +15,4 @@ h1{
 #image{
     margin-right: 80%;
 }
+
