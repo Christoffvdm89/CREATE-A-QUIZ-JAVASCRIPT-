@@ -1,10 +1,26 @@
 body{
-    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    /* /* font-family: 'ZCOOL QingKe HuangYou', cursive;*/
+    font-family: 'Lato', sans-serif; 
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Roboto', sans-serif; */
     margin: 2%;
-    background-color: blue;
+    background:url('images/world68.jpg') repeat;
+    background-size: cover;
+    color:#FFE8B7;
+    
+}
+
+button{
+    color:#7D6B7D;
+    
 }
 
 
+@media(max-width: 750px){
+    body{
+        background:url('images/world68.jpg');
+   }
+}
 
 
 
